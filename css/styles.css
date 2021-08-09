@@ -1,9 +1,4 @@
-/* line 1, ../../../Desktop/Project-#5/scss/partials/_grid.scss */
-body {
-  margin: auto;
-}
-
-/* line 4, ../../../Desktop/Project-#5/scss/partials/_grid.scss */
+/* line 2, ../../../Desktop/Project-#5/scss/partials/_grid.scss */
 .gallery {
   display: grid;
   max-width: 1000px;
@@ -18,7 +13,7 @@ body {
 input {
   display: block;
   padding: 15px;
-  margin: auto;
+  margin: 15px auto;
   border: 2px solid #928d8d;
   border-radius: 3px;
   box-sizing: border-box;
