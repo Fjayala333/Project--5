@@ -1,0 +1,30 @@
+/* line 2, ../../../Desktop/Project-#5/scss/partials/_grid.scss */
+.gallery {
+  display: grid;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 30px;
+  grid-template-columns: repeat(auto-fit, 200px);
+  grid-gap: 30px 25px;
+  justify-content: center;
+}
+
+/* line 2, ../../../Desktop/Project-#5/scss/partials/_searchbar.scss */
+input {
+  display: block;
+  padding: 15px;
+  margin-top: auto;
+  border: 2px solid #928d8d;
+  border-radius: 3px;
+  box-sizing: border-box;
+  width: 550px;
+  font-size: 15px;
+}
+
+/* line 12, ../../../Desktop/Project-#5/scss/partials/_searchbar.scss */
+input::placeholder {
+  color: #3837376b;
+  opacity: 2;
+}
+
+/*# sourceMappingURL=styles.css.map */
